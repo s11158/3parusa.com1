@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.3parusa.ru	TRUE	/	FALSE	1999999999	__ddg8_	d2hlUl4EAVq7g7dP
+.3parusa.ru	TRUE	/	FALSE	1999999999	__ddg10_	1754102179
+.3parusa.ru	TRUE	/	FALSE	1999999999	__ddg9_	5.31.143.6
+.3parusa.ru	TRUE	/	FALSE	1999999999	__ddg1_	HQ6iFiF5jPnCWywlyk5h
+
